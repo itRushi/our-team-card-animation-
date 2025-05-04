@@ -2,6 +2,11 @@ these is a our team card animation page
 
 see live page here - 
 
+https://itrushi.github.io/our-team-card-animation-/
+
+
+
+
 
 
 screenshot - 
